@@ -1,3 +1,7 @@
+#this is for rename multiple files with a desired pattern (this is use ful when many files are in a folders and dirrentnt name formant but not able to organize or copy paste
+#can use this when copy files in alredy eixit files which are in same name so when moving that will help rename allof those folder files
+
+
 import os
 import re
 import datetime
