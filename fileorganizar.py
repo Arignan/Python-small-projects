@@ -1,3 +1,6 @@
+#This will organize files 
+# when you have all types or files in thousands but cant organize with moving all by manually , use this , this will organize by types, date( year, if you want also select month wise too)
+
 import os
 import shutil
 from datetime import datetime
