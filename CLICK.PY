@@ -1,3 +1,8 @@
+#pip install pyautogui
+#instll above library
+#this below code is for clicking a point what uwant in screen with input x and y cordinate and clicking interval and total duration 
+
+
 import pyautogui
 import time
 
